@@ -131,5 +131,6 @@ plt.show()
 ## Output:
 <img width="411" height="421" alt="image" src="https://github.com/user-attachments/assets/db40caf0-4934-4dc3-a6dd-3495c66e123d" />
 
-
+## Result:
+ thus, a Multilayer Perceptron (MLP) to classify handwritten digits in python is bulit
 
